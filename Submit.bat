@@ -1,7 +1,7 @@
 @echo off
 
 f:
-F:\SoftwareTest\Github\19 Networkbasis
+cd F:\SoftwareTest\Github\19 Networkbasis
 
 git init
 git remote add gitee https://gitee.com/Cacho/Networkbasis.git
